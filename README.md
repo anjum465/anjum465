@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjum465
 - 👀 I’m interested in developing role
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m gained knowledge in full-stack development
 - 📫 How to reach me www.linkedin.com/in/anjum-taj-89a553224
 
 <!---
